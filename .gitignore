@@ -1,0 +1,14 @@
+# Environment & OS files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Temporary & Reference files
+scratch/chrome_profile/
+scratch/extracted_slides/
+wp_mp_reference.pptx
+*.tmp
+*.log
+
+# Uploads cache (keep directory structure)
+# uploads/complaints/*
